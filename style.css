@@ -47,7 +47,7 @@
 .form{
   width: 250px; height: 505px;
   margin-top: 25px;
-  margin-bottom: 12px;
+  margin-bottom: 32px;
 }
 .inputs {
   display: grid;
@@ -75,6 +75,7 @@
 .agreetext {
   color: rgb(179, 122, 16);
   font-size: 15px;
+  cursor: default;
 }
 .box {
   width: 45px;
